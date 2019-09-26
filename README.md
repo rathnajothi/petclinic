@@ -1,1 +1,1 @@
-# petclinic
+# petclinic demo
